@@ -70,22 +70,7 @@ Alongside enterprise platform engineering, I have a deep technical focus on **So
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 LinkedIn Job Intelligence & Application Copilot</h3>
-      <p><em>Autonomous job discovery, compensation intelligence, and ATS resume tailoring.</em></p>
-      <ul>
-        <li><b>Anti-Bot Architecture:</b> Persistent Chromium automation engine via Playwright with 2FA session persistence and anti-detection flags.</li>
-        <li><b>Salary Intelligence:</b> 3-tier compensation resolver integrating 150+ verified Big Tech benchmarks with live AmbitionBox/Glassdoor web queries to filter for ₹25+ LPA roles.</li>
-        <li><b>Dynamic ATS Resumes:</b> Playwright-powered single-page PDF generator rendering clean ATS layouts with vector SVG icons and role adaptation.</li>
-        <li><b>Application Tracking:</b> Synchronized pandas spreadsheet tracker capturing statuses from discovery through submission.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-CLI-blueviolet?style=flat-square" />
-      </p>
-    </td>
+    
     <td width="50%" valign="top">
       <h3>🏛️ Enterprise Data Infrastructure @ NSE</h3>
       <p><em>Mission-critical platform modernization at the National Stock Exchange of India.</em></p>
