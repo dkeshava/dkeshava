@@ -70,21 +70,21 @@ Alongside enterprise platform engineering, I have a deep technical focus on **So
     </td>
   </tr>
   <tr>
-    
-    <td width="50%" valign="top">
-      <h3>🏛️ Enterprise Data Infrastructure @ NSE</h3>
-      <p><em>Mission-critical platform modernization at the National Stock Exchange of India.</em></p>
+    <td colspan="2" valign="top">
+      <h3>🏛️ Enterprise Data Infrastructure & Platforms @ National Stock Exchange of India (NSE)</h3>
+      <p><em>Mission-critical data platform modernization and distributed query infrastructure at India's premier exchange.</em></p>
       <ul>
-        <li><b>Platform Provisioning:</b> Multi-node enterprise infrastructure deployment across Development and Production bare-metal RHEL servers for Informatica DEI.</li>
-        <li><b>Ecosystem Integration:</b> High-security enterprise network configuration across Cloudera CDP (Hadoop, Hive, Impala, Spark) and Oracle 19c.</li>
-        <li><b>Data Integrity:</b> Automated complex SQL reconciliation workflows between relational and big data storage layers ensuring zero discrepancies.</li>
-        <li><b>Federated SQL:</b> Technical evaluation of Starburst Enterprise Platform (Trino) for federated querying across heterogeneous data lakes.</li>
+        <li><b>Enterprise Infrastructure Provisioning:</b> Participated in platform setup and platform provisioning for Informatica DEI 10.5.10 across Development and Production bare-metal RHEL servers.</li>
+        <li><b>Systems & Network Integration:</b> Engineered end-to-end connectivity across secure enterprise network boundaries; configured and validated JDBC connections, Oracle Client 19c, and Cloudera Hadoop ecosystem services (HDFS, Hive, Impala, Spark).</li>
+        <li><b>Platform Migration & Integrity:</b> Migrated and modernized legacy ETL pipelines (as part of an org-wide 400+ pipeline initiative); automated SQL reconciliation workflows between relational (Oracle 19c) and big data storage layers ensuring zero data discrepancy.</li>
+        <li><b>Federated SQL Query Engine (Starburst / Trino PoV):</b> Conducted Proof-of-Value (PoV) evaluation of Starburst Enterprise Platform on BCP infrastructure for high-performance federated querying across heterogeneous data sources.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
         <img src="https://img.shields.io/badge/Hadoop-FFD700?style=flat-square&logo=apachehadoop&logoColor=black" />
-        <img src="https://img.shields.io/badge/Trino-Starburst-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Trino_/_Starburst-DD00A1?style=flat-square" />
         <img src="https://img.shields.io/badge/Oracle_19c-F80000?style=flat-square&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Informatica_DEI-FF4F00?style=flat-square" />
         <img src="https://img.shields.io/badge/Linux_RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" />
       </p>
     </td>
@@ -103,7 +103,7 @@ Alongside enterprise platform engineering, I have a deep technical focus on **So
 | **Backend & Architecture** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-34495E?style=flat-square) ![Low Level Design](https://img.shields.io/badge/LLD_&_OOP-4A154B?style=flat-square) ![Goroutines](https://img.shields.io/badge/Goroutines_&_Channels-00ADD8?style=flat-square) |
 | **Data & Cloud Platforms** | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop_CDP-FFD700?style=flat-square&logo=apachehadoop&logoColor=black) ![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black) ![Trino](https://img.shields.io/badge/Trino_/_Starburst-DD00A1?style=flat-square) ![Informatica](https://img.shields.io/badge/Informatica_DEI-FF4F00?style=flat-square) |
 | **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Oracle 19c](https://img.shields.io/badge/Oracle_19c-F80000?style=flat-square&logo=oracle&logoColor=white) ![Impala](https://img.shields.io/badge/Apache_Impala-268B99?style=flat-square) |
-| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux RHEL](https://img.shields.io/badge/Linux_RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux RHEL](https://img.shields.io/badge/Linux_RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
 | **Testing & Quality** | ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-brightgreen?style=flat-square) ![Go Test](https://img.shields.io/badge/Go_Race_Detector-00ADD8?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 </div>
